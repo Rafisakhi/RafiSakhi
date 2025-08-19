@@ -48,8 +48,8 @@
 - 🌐 Website/Blog: [yourdomain.com](https://yourdomain.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- ✉️ Email: yourmail@example.com  
+- ✉️ Email: rafisakhi57@gmail.com
 
 ---
 
-⭐️ From [USERNAME](https://github.com/USERNAME)
+⭐️ From [USERNAME](https://github.com/Rafisakhi)
